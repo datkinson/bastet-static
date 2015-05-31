@@ -1,0 +1,17 @@
+{
+  "name": "bastet-static",
+  "description": "A static ui for Bastet proxy",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.4.x",
+    "angular-animate": "^1.4.x",
+    "angular-aria": "^1.4.x",
+    "angular-material": "^0.9.0",
+    "angular-route": "~1.4.0"
+  },
+  "devDependencies": {
+    "angular-material": "~0.9.4"
+  }
+}
